@@ -1,0 +1,10 @@
+name: Perks
+version: "1.0"
+api: spigot
+api-version: 1.8
+author: Deriton | Maurice Buffen | maurice.buffen@gmail.com
+main: de.deriton.perks.Main
+
+commands:
+  Perks:
+    description: Zeigt die Perks!
